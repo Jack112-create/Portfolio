@@ -35,6 +35,11 @@
       @include respond(tab-port-sm) {
         padding-bottom: 6.4rem;
       }
+
+      img {
+        border: 3px solid #fff;
+        border-radius: 100% !important;
+      }
     }
 
     &__info {
